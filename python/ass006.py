@@ -1,0 +1,1 @@
+print('atish','kumar','jain',sep='-->')
